@@ -5,7 +5,7 @@ import android.util.Log;
 public class Book {
     String author;
     int numberOfBooks;
-
+// discriptions are clear !
     public String getAuthor() {
         return author;
     }

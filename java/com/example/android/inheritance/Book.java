@@ -1,7 +1,7 @@
 package com.example.android.inheritance;
 
 import android.util.Log;
-
+int test;
 public class Book {
     String author;
     int numberOfBooks;
